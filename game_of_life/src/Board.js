@@ -33,7 +33,7 @@ const Button = styled.button`
 
 const ButtonInactive = styled.button`
   margin-left: 12px;
-  opacity: 0.3
+  opacity: 0.3;
   cursor: not-allowed;
 `;
 
